@@ -34,7 +34,7 @@ li a{
 }
 
 li a:hover{
-    text-decoration: underline blue;
+    text-decoration: underline;
 }
 
 .navbar ul .btn{
@@ -46,8 +46,7 @@ li a:hover{
     top: -46px;
 }
 .navbar ul .btn:hover{
-    text-decoration: underline blue;
-    box-shadow: 2px 2px 2px 2px blue;
+    box-shadow: 2px 2px 2px 2px red;
 }
 .logo{
     display: inline;
@@ -89,8 +88,7 @@ height:56px;
     display: inline-block;
 }
 .box .btn:hover{
-    text-decoration: underline blue;
-    box-shadow: 2px 2px 2px 2px blue;
+    box-shadow: 2px 2px 2px 2px red;
 }
 .content .img{
     /* display: inline-block; */
